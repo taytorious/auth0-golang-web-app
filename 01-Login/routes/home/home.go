@@ -1,7 +1,7 @@
 package home
 
 import (
-	templates ".."
+	templates "github.com/taytorious/cavavin/01-Login/routes"
 	"html/template"
 	"net/http"
 	"os"

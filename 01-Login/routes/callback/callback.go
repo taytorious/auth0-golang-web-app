@@ -4,7 +4,7 @@ import (
 	"context"
 	_ "crypto/sha512"
 	"encoding/json"
-	"../../app"
+	"github.com/taytorious/cavavin/01-Login/app"
 	"golang.org/x/oauth2"
 	"net/http"
 	"os"

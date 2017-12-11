@@ -1,7 +1,7 @@
 package middlewares
 
 import (
-	"../../app"
+	"github.com/taytorious/cavavin/01-Login/app"
 	"net/http"
 )
 

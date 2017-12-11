@@ -1,12 +1,12 @@
 package main
 
 import (
-	"./routes/callback"
-	"./routes/home"
-	"./routes/middlewares"
-	"./routes/user"
-	"./routes/login"
-	"./routes/logout"
+	"github.com/taytorious/cavavin/01-Login/routes/callback"
+	"github.com/taytorious/cavavin/01-Login/routes/home"
+	"github.com/taytorious/cavavin/01-Login/routes/middlewares"
+	"github.com/taytorious/cavavin/01-Login/routes/user"
+	"github.com/taytorious/cavavin/01-Login/routes/login"
+	"github.com/taytorious/cavavin/01-Login/routes/logout"
 	"github.com/codegangsta/negroni"
 	"github.com/gorilla/mux"
 	"net/http"

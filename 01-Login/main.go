@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./app"
+	"github.com/taytorious/cavavin/01-Login/app"
 	"github.com/joho/godotenv"
 	"log"
 )

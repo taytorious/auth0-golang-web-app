@@ -1,8 +1,8 @@
 package user
 
 import (
-	"../../app"
-	templates ".."
+	"github.com/taytorious/cavavin/01-Login/app"
+	templates "github.com/taytorious/cavavin/01-Login/routes"
 	"net/http"
 )
 

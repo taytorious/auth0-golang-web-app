@@ -6,7 +6,7 @@ import (
 	"os"
 	"crypto/rand"
 	"encoding/base64"
-	"../../app"
+	"github.com/taytorious/cavavin/01-Login/app"
 )
 
 func LoginHandler(w http.ResponseWriter, r *http.Request) {
